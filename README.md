@@ -67,7 +67,7 @@ So, the dataset in the project was collected from a private repository and consi
 
 **NORMAL**
 
-![Normal](https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/03/Human_Eye_Closeup_1296x728-header-1024x575.jpg?w=1155&h=1528)
+![Normal](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fundus_photograph_of_normal_right_eye.jpg/240px-Fundus_photograph_of_normal_right_eye.jpg)
 
 # Issues Faced.
 1. Data Augmentation can be performed more accurately.
@@ -78,7 +78,8 @@ So, the dataset in the project was collected from a private repository and consi
 6. Make sure to change the path in the code where your dataset is saved.
 
 ### _**Let’s Connect**_
-https://www.linkedin.com/in/mudassiruddin21
+
+<a href="https://linkedin.com/in/mudassiruddin21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mudassiruddin21" height="30" width="40" /></a>
 
 ![Connect](https://media2.giphy.com/media/l1O6zvqu7O317887HF/source.gif)
 
